@@ -1,0 +1,17 @@
+{
+  "name": "signup-signin-form-with-connection-to-firebase-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "firebase": "^11.0.2",
+    "socket.io": "^4.8.1"
+  }
+}
